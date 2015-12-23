@@ -153,7 +153,6 @@ PA,Abaetetuba
 PA,Abel Figueiredo
 PA,Acará
 PA,Afuá
-PA,Água Azul do Norte
 PA,Alenquer
 PA,Almeirim
 PA,Altamira
@@ -167,8 +166,8 @@ PA,Bagre
 PA,Baião
 PA,Bannach
 PA,Barcarena
-PA,Belém
 PA,Belterra
+PA,Belém
 PA,Benevides
 PA,Bom Jesus do Tocantins
 PA,Bonito
@@ -212,7 +211,6 @@ PA,Jacareacanga
 PA,Jacundá
 PA,Juruti
 PA,Limoeiro do Ajuru
-PA,Mãe do Rio
 PA,Magalhães Barata
 PA,Marabá
 PA,Maracanã
@@ -222,18 +220,19 @@ PA,Medicilândia
 PA,Melgaço
 PA,Mocajuba
 PA,Moju
+PA,Mojuí dos Campos
 PA,Monte Alegre
 PA,Muaná
+PA,Mãe do Rio
 PA,Nova Esperança do Piriá
 PA,Nova Ipixuna
 PA,Nova Timboteua
 PA,Novo Progresso
 PA,Novo Repartimento
-PA,Óbidos
 PA,Oeiras do Pará
 PA,Oriximiná
-PA,Ourém
 PA,Ourilândia do Norte
+PA,Ourém
 PA,Pacajá
 PA,Palestina do Pará
 PA,Paragominas
@@ -264,20 +263,20 @@ PA,Santana do Araguaia
 PA,Santarém
 PA,Santarém Novo
 PA,Santo Antônio do Tauá
+PA,Sapucaia
+PA,Senador José Porfírio
+PA,Soure
 PA,São Caetano de Odivelas
 PA,São Domingos do Araguaia
 PA,São Domingos do Capim
-PA,São Félix do Xingu
 PA,São Francisco do Pará
+PA,São Félix do Xingu
 PA,São Geraldo do Araguaia
 PA,São João da Ponta
 PA,São João de Pirabas
 PA,São João do Araguaia
 PA,São Miguel do Guamá
 PA,São Sebastião da Boa Vista
-PA,Sapucaia
-PA,Senador José Porfírio
-PA,Soure
 PA,Tailândia
 PA,Terra Alta
 PA,Terra Santa
@@ -292,6 +291,8 @@ PA,Vigia
 PA,Viseu
 PA,Vitória do Xingu
 PA,Xinguara
+PA,Água Azul do Norte
+PA,Óbidos
 AP,Amapá
 AP,Calçoene
 AP,Cutias
@@ -666,7 +667,6 @@ MA,Vitorino Freire
 MA,Zé Doca
 PI,Acauã
 PI,Agricolândia
-PI,Água Branca
 PI,Alagoinha do Piauí
 PI,Alegrete do Piauí
 PI,Alto Longá
@@ -674,8 +674,8 @@ PI,Altos
 PI,Alvorada do Gurguéia
 PI,Amarante
 PI,Angical do Piauí
-PI,Anísio de Abreu
 PI,Antônio Almeida
+PI,Anísio de Abreu
 PI,Aroazes
 PI,Aroeiras do Itaim
 PI,Arraial
@@ -768,13 +768,13 @@ PI,Jaicós
 PI,Jardim do Mulato
 PI,Jatobá do Piauí
 PI,Jerumenha
-PI,João Costa
 PI,Joaquim Pires
 PI,Joca Marques
 PI,José de Freitas
+PI,João Costa
 PI,Juazeiro do Piauí
-PI,Júlio Borges
 PI,Jurema
+PI,Júlio Borges
 PI,Lagoa Alegre
 PI,Lagoa de São Francisco
 PI,Lagoa do Barro do Piauí
@@ -782,8 +782,8 @@ PI,Lagoa do Piauí
 PI,Lagoa do Sítio
 PI,Lagoinha do Piauí
 PI,Landri Sales
-PI,Luís Correia
 PI,Luzilândia
+PI,Luís Correia
 PI,Madeiro
 PI,Manoel Emídio
 PI,Marcolândia
@@ -800,6 +800,7 @@ PI,Morro Cabeça no Tempo
 PI,Morro do Chapéu do Piauí
 PI,Murici dos Portelas
 PI,Nazaré do Piauí
+PI,Nazária
 PI,Nossa Senhora de Nazaré
 PI,Nossa Senhora dos Remédios
 PI,Nova Santa Rita
@@ -846,21 +847,28 @@ PI,Santana do Piauí
 PI,Santo Antônio de Lisboa
 PI,Santo Antônio dos Milagres
 PI,Santo Inácio do Piauí
+PI,Sebastião Barros
+PI,Sebastião Leal
+PI,Sigefredo Pacheco
+PI,Simplício Mendes
+PI,Simões
+PI,Socorro do Piauí
+PI,Sussuapara
 PI,São Braz do Piauí
-PI,São Félix do Piauí
 PI,São Francisco de Assis do Piauí
 PI,São Francisco do Piauí
+PI,São Félix do Piauí
 PI,São Gonçalo do Gurguéia
 PI,São Gonçalo do Piauí
+PI,São José do Divino
+PI,São José do Peixe
+PI,São José do Piauí
 PI,São João da Canabrava
 PI,São João da Fronteira
 PI,São João da Serra
 PI,São João da Varjota
 PI,São João do Arraial
 PI,São João do Piauí
-PI,São José do Divino
-PI,São José do Peixe
-PI,São José do Piauí
 PI,São Julião
 PI,São Lourenço do Piauí
 PI,São Luis do Piauí
@@ -869,24 +877,18 @@ PI,São Miguel do Fidalgo
 PI,São Miguel do Tapuio
 PI,São Pedro do Piauí
 PI,São Raimundo Nonato
-PI,Sebastião Barros
-PI,Sebastião Leal
-PI,Sigefredo Pacheco
-PI,Simões
-PI,Simplício Mendes
-PI,Socorro do Piauí
-PI,Sussuapara
 PI,Tamboril do Piauí
 PI,Tanque do Piauí
 PI,Teresina
 PI,União
 PI,Uruçuí
 PI,Valença do Piauí
-PI,Várzea Branca
-PI,Várzea Grande
 PI,Vera Mendes
 PI,Vila Nova do Piauí
+PI,Várzea Branca
+PI,Várzea Grande
 PI,Wall Ferraz
+PI,Água Branca
 CE,Abaiara
 CE,Acarape
 CE,Acaraú
@@ -4311,10 +4313,6 @@ SC,Abdon Batista
 SC,Abelardo Luz
 SC,Agrolândia
 SC,Agronômica
-SC,Água Doce
-SC,Águas de Chapecó
-SC,Águas Frias
-SC,Águas Mornas
 SC,Alfredo Wagner
 SC,Alto Bela Vista
 SC,Anchieta
@@ -4337,6 +4335,7 @@ SC,Balneário Barra do Sul
 SC,Balneário Camboriú
 SC,Balneário Gaivota
 SC,Balneário Piçarras
+SC,Balneário Rincão
 SC,Bandeirante
 SC,Barra Bonita
 SC,Barra Velha
@@ -4356,7 +4355,6 @@ SC,Braço do Norte
 SC,Braço do Trombudo
 SC,Brunópolis
 SC,Brusque
-SC,Caçador
 SC,Caibi
 SC,Calmon
 SC,Camboriú
@@ -4366,11 +4364,12 @@ SC,Campo Erê
 SC,Campos Novos
 SC,Canelinha
 SC,Canoinhas
-SC,Capão Alto
 SC,Capinzal
 SC,Capivari de Baixo
+SC,Capão Alto
 SC,Catanduvas
 SC,Caxambu do Sul
+SC,Caçador
 SC,Celso Ramos
 SC,Cerro Negro
 SC,Chapadão do Lageado
@@ -4405,8 +4404,8 @@ SC,Garopaba
 SC,Garuva
 SC,Gaspar
 SC,Governador Celso Ramos
-SC,Grão Pará
 SC,Gravatal
+SC,Grão Pará
 SC,Guabiruba
 SC,Guaraciaba
 SC,Guaramirim
@@ -4416,7 +4415,6 @@ SC,Herval d'Oeste
 SC,Ibiam
 SC,Ibicaré
 SC,Ibirama
-SC,Içara
 SC,Ilhota
 SC,Imaruí
 SC,Imbituba
@@ -4431,13 +4429,14 @@ SC,Iraceminha
 SC,Irani
 SC,Irati
 SC,Irineópolis
-SC,Itá
 SC,Itaiópolis
 SC,Itajaí
 SC,Itapema
 SC,Itapiranga
 SC,Itapoá
 SC,Ituporanga
+SC,Itá
+SC,Içara
 SC,Jaborá
 SC,Jacinto Machado
 SC,Jaguaruna
@@ -4500,6 +4499,7 @@ SC,Paulo Lopes
 SC,Pedras Grandes
 SC,Penha
 SC,Peritiba
+SC,Pescaria Brava
 SC,Petrolândia
 SC,Pinhalzinho
 SC,Pinheiro Preto
@@ -4542,27 +4542,6 @@ SC,Santa Terezinha
 SC,Santa Terezinha do Progresso
 SC,Santiago do Sul
 SC,Santo Amaro da Imperatriz
-SC,São Bento do Sul
-SC,São Bernardino
-SC,São Bonifácio
-SC,São Carlos
-SC,São Cristovão do Sul
-SC,São Domingos
-SC,São Francisco do Sul
-SC,São João Batista
-SC,São João do Itaperiú
-SC,São João do Oeste
-SC,São João do Sul
-SC,São Joaquim
-SC,São José
-SC,São José do Cedro
-SC,São José do Cerrito
-SC,São Lourenço do Oeste
-SC,São Ludgero
-SC,São Martinho
-SC,São Miguel da Boa Vista
-SC,São Miguel do Oeste
-SC,São Pedro de Alcântara
 SC,Saudades
 SC,Schroeder
 SC,Seara
@@ -4570,6 +4549,27 @@ SC,Serra Alta
 SC,Siderópolis
 SC,Sombrio
 SC,Sul Brasil
+SC,São Bento do Sul
+SC,São Bernardino
+SC,São Bonifácio
+SC,São Carlos
+SC,São Cristovão do Sul
+SC,São Domingos
+SC,São Francisco do Sul
+SC,São Joaquim
+SC,São José
+SC,São José do Cedro
+SC,São José do Cerrito
+SC,São João Batista
+SC,São João do Itaperiú
+SC,São João do Oeste
+SC,São João do Sul
+SC,São Lourenço do Oeste
+SC,São Ludgero
+SC,São Martinho
+SC,São Miguel da Boa Vista
+SC,São Miguel do Oeste
+SC,São Pedro de Alcântara
 SC,Taió
 SC,Tangará
 SC,Tigrinhos
@@ -4577,11 +4577,11 @@ SC,Tijucas
 SC,Timbé do Sul
 SC,Timbó
 SC,Timbó Grande
-SC,Três Barras
 SC,Treviso
 SC,Treze de Maio
 SC,Treze Tílias
 SC,Trombudo Central
+SC,Três Barras
 SC,Tubarão
 SC,Tunápolis
 SC,Turvo
@@ -4589,9 +4589,9 @@ SC,União do Oeste
 SC,Urubici
 SC,Urupema
 SC,Urussanga
-SC,Vargeão
 SC,Vargem
 SC,Vargem Bonita
+SC,Vargeão
 SC,Vidal Ramos
 SC,Videira
 SC,Vitor Meireles
@@ -4600,8 +4600,11 @@ SC,Xanxerê
 SC,Xavantina
 SC,Xaxim
 SC,Zortéa
+SC,Água Doce
+SC,Águas de Chapecó
+SC,Águas Frias
+SC,Águas Mornas
 RS,Aceguá
-RS,Água Santa
 RS,Agudo
 RS,Ajuricaba
 RS,Alecrim
@@ -4628,12 +4631,8 @@ RS,Arroio dos Ratos
 RS,Arroio Grande
 RS,Arvorezinha
 RS,Augusto Pestana
-RS,Áurea
 RS,Bagé
 RS,Balneário Pinhal
-RS,Barão
-RS,Barão de Cotegipe
-RS,Barão do Triunfo
 RS,Barra do Guarita
 RS,Barra do Quaraí
 RS,Barra do Ribeiro
@@ -4641,6 +4640,9 @@ RS,Barra do Rio Azul
 RS,Barra Funda
 RS,Barracão
 RS,Barros Cassal
+RS,Barão
+RS,Barão de Cotegipe
+RS,Barão do Triunfo
 RS,Benjamin Constant do Sul
 RS,Bento Gonçalves
 RS,Boa Vista das Missões
@@ -4658,7 +4660,6 @@ RS,Bozano
 RS,Braga
 RS,Brochier
 RS,Butiá
-RS,Caçapava do Sul
 RS,Cacequi
 RS,Cachoeira do Sul
 RS,Cachoeirinha
@@ -4675,27 +4676,27 @@ RS,Campo Bom
 RS,Campo Novo
 RS,Campos Borges
 RS,Candelária
-RS,Cândido Godói
 RS,Candiota
 RS,Canela
 RS,Canguçu
 RS,Canoas
 RS,Canudos do Vale
+RS,Capela de Santana
+RS,Capitão
+RS,Capivari do Sul
 RS,Capão Bonito do Sul
 RS,Capão da Canoa
 RS,Capão do Cipó
 RS,Capão do Leão
-RS,Capela de Santana
-RS,Capitão
-RS,Capivari do Sul
-RS,Caraá
 RS,Carazinho
+RS,Caraá
 RS,Carlos Barbosa
 RS,Carlos Gomes
 RS,Casca
 RS,Caseiros
 RS,Catuípe
 RS,Caxias do Sul
+RS,Caçapava do Sul
 RS,Centenário
 RS,Cerrito
 RS,Cerro Branco
@@ -4706,8 +4707,8 @@ RS,Chapada
 RS,Charqueadas
 RS,Charrua
 RS,Chiapetta
-RS,Chuí
 RS,Chuvisca
+RS,Chuí
 RS,Cidreira
 RS,Ciríaco
 RS,Colinas
@@ -4727,6 +4728,7 @@ RS,Cristal do Sul
 RS,Cruz Alta
 RS,Cruzaltense
 RS,Cruzeiro do Sul
+RS,Cândido Godói
 RS,David Canabarro
 RS,Derrubadas
 RS,Dezesseis de Novembro
@@ -4755,10 +4757,10 @@ RS,Esmeralda
 RS,Esperança do Sul
 RS,Espumoso
 RS,Estação
-RS,Estância Velha
 RS,Esteio
 RS,Estrela
 RS,Estrela Velha
+RS,Estância Velha
 RS,Eugênio de Castro
 RS,Fagundes Varela
 RS,Farroupilha
@@ -4786,9 +4788,9 @@ RS,Gramado dos Loureiros
 RS,Gramado Xavier
 RS,Gravataí
 RS,Guabiju
-RS,Guaíba
 RS,Guaporé
 RS,Guarani das Missões
+RS,Guaíba
 RS,Harmonia
 RS,Herval
 RS,Herveiras
@@ -4807,8 +4809,8 @@ RS,Imbé
 RS,Imigrante
 RS,Independência
 RS,Inhacorá
-RS,Ipê
 RS,Ipiranga do Sul
+RS,Ipê
 RS,Iraí
 RS,Itaara
 RS,Itacurubi
@@ -4821,8 +4823,8 @@ RS,Ivoti
 RS,Jaboticaba
 RS,Jacuizinho
 RS,Jacutinga
-RS,Jaguarão
 RS,Jaguari
+RS,Jaguarão
 RS,Jaquirana
 RS,Jari
 RS,Jóia
@@ -4837,7 +4839,6 @@ RS,Lavras do Sul
 RS,Liberato Salzano
 RS,Lindolfo Collor
 RS,Linha Nova
-RS,Maçambara
 RS,Machadinho
 RS,Mampituba
 RS,Manoel Viana
@@ -4853,6 +4854,7 @@ RS,Mato Castelhano
 RS,Mato Leitão
 RS,Mato Queimado
 RS,Maximiliano de Almeida
+RS,Maçambara
 RS,Minas do Leão
 RS,Miraguaí
 RS,Montauri
@@ -4864,10 +4866,9 @@ RS,Morrinhos do Sul
 RS,Morro Redondo
 RS,Morro Reuter
 RS,Mostardas
-RS,Muçum
 RS,Muitos Capões
 RS,Muliterno
-RS,Não-Me-Toque
+RS,Muçum
 RS,Nicolau Vergueiro
 RS,Nonoai
 RS,Nova Alvorada
@@ -4878,10 +4879,10 @@ RS,Nova Bréscia
 RS,Nova Candelária
 RS,Nova Esperança do Sul
 RS,Nova Hartz
-RS,Nova Pádua
 RS,Nova Palma
 RS,Nova Petrópolis
 RS,Nova Prata
+RS,Nova Pádua
 RS,Nova Ramada
 RS,Nova Roma do Sul
 RS,Nova Santa Rita
@@ -4891,6 +4892,7 @@ RS,Novo Hamburgo
 RS,Novo Machado
 RS,Novo Tiradentes
 RS,Novo Xingu
+RS,Não-Me-Toque
 RS,Osório
 RS,Paim Filho
 RS,Palmares do Sul
@@ -4917,19 +4919,20 @@ RS,Pinhal da Serra
 RS,Pinhal Grande
 RS,Pinheirinho do Vale
 RS,Pinheiro Machado
+RS,Pinto Bandeira
 RS,Pirapó
 RS,Piratini
 RS,Planalto
-RS,Poço das Antas
-RS,Pontão
 RS,Ponte Preta
-RS,Portão
+RS,Pontão
 RS,Porto Alegre
 RS,Porto Lucena
 RS,Porto Mauá
 RS,Porto Vera Cruz
 RS,Porto Xavier
+RS,Portão
 RS,Pouso Novo
+RS,Poço das Antas
 RS,Presidente Lucena
 RS,Progresso
 RS,Protásio Alves
@@ -4972,7 +4975,6 @@ RS,Santa Vitória do Palmar
 RS,Santana da Boa Vista
 RS,Santana do Livramento
 RS,Santiago
-RS,Santo Ângelo
 RS,Santo Antônio da Patrulha
 RS,Santo Antônio das Missões
 RS,Santo Antônio do Palma
@@ -4980,14 +4982,31 @@ RS,Santo Antônio do Planalto
 RS,Santo Augusto
 RS,Santo Cristo
 RS,Santo Expedito do Sul
+RS,Santo Ângelo
+RS,Sapiranga
+RS,Sapucaia do Sul
+RS,Sarandi
+RS,Seberi
+RS,Sede Nova
+RS,Segredo
+RS,Selbach
+RS,Senador Salgado Filho
+RS,Sentinela do Sul
+RS,Serafina Corrêa
+RS,Sertão
+RS,Sertão Santana
+RS,Sete de Setembro
+RS,Severiano de Almeida
+RS,Silveira Martins
+RS,Sinimbu
+RS,Sobradinho
+RS,Soledade
 RS,São Borja
 RS,São Domingos do Sul
 RS,São Francisco de Assis
 RS,São Francisco de Paula
 RS,São Gabriel
 RS,São Jerônimo
-RS,São João da Urtiga
-RS,São João do Polêsine
 RS,São Jorge
 RS,São José das Missões
 RS,São José do Herval
@@ -4997,6 +5016,8 @@ RS,São José do Norte
 RS,São José do Ouro
 RS,São José do Sul
 RS,São José dos Ausentes
+RS,São João da Urtiga
+RS,São João do Polêsine
 RS,São Leopoldo
 RS,São Lourenço do Sul
 RS,São Luiz Gonzaga
@@ -5017,25 +5038,7 @@ RS,São Valentim do Sul
 RS,São Valério do Sul
 RS,São Vendelino
 RS,São Vicente do Sul
-RS,Sapiranga
-RS,Sapucaia do Sul
-RS,Sarandi
-RS,Seberi
-RS,Sede Nova
-RS,Segredo
-RS,Selbach
-RS,Senador Salgado Filho
-RS,Sentinela do Sul
-RS,Serafina Corrêa
 RS,Sério
-RS,Sertão
-RS,Sertão Santana
-RS,Sete de Setembro
-RS,Severiano de Almeida
-RS,Silveira Martins
-RS,Sinimbu
-RS,Sobradinho
-RS,Soledade
 RS,Tabaí
 RS,Tapejara
 RS,Tapera
@@ -5053,6 +5056,8 @@ RS,Toropi
 RS,Torres
 RS,Tramandaí
 RS,Travesseiro
+RS,Trindade do Sul
+RS,Triunfo
 RS,Três Arroios
 RS,Três Cachoeiras
 RS,Três Coroas
@@ -5060,8 +5065,6 @@ RS,Três de Maio
 RS,Três Forquilhas
 RS,Três Palmeiras
 RS,Três Passos
-RS,Trindade do Sul
-RS,Triunfo
 RS,Tucunduva
 RS,Tunas
 RS,Tupanci do Sul
@@ -5070,8 +5073,8 @@ RS,Tupandi
 RS,Tuparendi
 RS,Turuçu
 RS,Ubiretama
-RS,União da Serra
 RS,Unistalda
+RS,União da Serra
 RS,Uruguaiana
 RS,Vacaria
 RS,Vale do Sol
@@ -5096,7 +5099,8 @@ RS,Vista Gaúcha
 RS,Vitória das Missões
 RS,Westfalia
 RS,Xangri-lá
-MS,Água Clara
+RS,Água Santa
+RS,Áurea
 MS,Alcinópolis
 MS,Amambaí
 MS,Anastácio
@@ -5129,8 +5133,8 @@ MS,Dois Irmãos do Buriti
 MS,Douradina
 MS,Dourados
 MS,Eldorado
-MS,Fátima do Sul
 MS,Figueirão
+MS,Fátima do Sul
 MS,Glória de Dourados
 MS,Guia Lopes da Laguna
 MS,Iguatemi
@@ -5155,6 +5159,7 @@ MS,Nova Andradina
 MS,Novo Horizonte do Sul
 MS,Paranaíba
 MS,Paranhos
+MS,Paraíso das Águas
 MS,Pedro Gomes
 MS,Ponta Porã
 MS,Porto Murtinho
@@ -5164,16 +5169,17 @@ MS,Rio Negro
 MS,Rio Verde de Mato Grosso
 MS,Rochedo
 MS,Santa Rita do Pardo
-MS,São Gabriel do Oeste
 MS,Selvíria
 MS,Sete Quedas
 MS,Sidrolândia
 MS,Sonora
+MS,São Gabriel do Oeste
 MS,Tacuru
 MS,Taquarussu
 MS,Terenos
 MS,Três Lagoas
 MS,Vicentina
+MS,Água Clara
 MT,Acorizal
 MT,Água Boa
 MT,Alta Floresta
